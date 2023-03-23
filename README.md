@@ -36,7 +36,7 @@ This webapp works with real live data from the SpaceX API. The application provi
 
 - Click on the link below to the live demo of the project
 
-  <a href="#">[Live Demo coming soon]</a>
+  <a href="https://space-travellers-qsz0.onrender.com">Live Demo</a>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
